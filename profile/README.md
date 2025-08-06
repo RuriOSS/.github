@@ -9,8 +9,3 @@
 - [rurima](https://github.com/RuriOSS/rurima)
 - [daijin](https://github.com/RuriOSS/daijin)
 - [asl](https://github.com/RuriOSS/asl)
-
-**Contact via Telegram**
-
-- [channel](https://t.me/rurioss_dev)
-- [group](https://t.me/rurioss)
