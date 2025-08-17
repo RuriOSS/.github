@@ -7,5 +7,7 @@
 **Related Projects:**
 - [ruri](https://github.com/RuriOSS/ruri)
 - [rurima](https://github.com/RuriOSS/rurima)
-- [daijin](https://github.com/RuriOSS/daijin)
+- [daijin](https://github.com/RuriOSS/daijin) (public archive)
 - [asl](https://github.com/RuriOSS/asl)
+
+If you have any project that uses our works, please let us know! And if you want to show it off, maybe we can help promote it.
